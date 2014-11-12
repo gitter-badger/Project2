@@ -1,14 +1,11 @@
 TODO:
 
-create models
-
-create seed
-
-create controllers
-
-create views
-
-write tests
+- [ ] add associations
+- [ ] add validations to README
+- [ ] create seed
+- [ ] create controllers
+- [ ] create views
+- [ ] write tests
 
 Zen Crayons
 ===========
