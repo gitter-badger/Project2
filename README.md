@@ -9,6 +9,7 @@ TODO:
 
 Zen Crayons
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ysshah/Project2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Add crayons to a box of crayons and apply them to a canvas. Share your boxes and your canvases with other people.
 
